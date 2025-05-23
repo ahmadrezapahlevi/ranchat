@@ -1,5 +1,3 @@
-Berikut adalah versi lengkap dan terstruktur dari README.md untuk proyek ahmadrezapahlevi/ranchat:
-
 # Ranchat
 
 **Ranchat** adalah aplikasi chat real-time berbasis web yang dibangun menggunakan **Node.js**, **Express**, dan **Socket.IO**. Proyek ini dirancang sebagai sarana pembelajaran untuk memahami implementasi komunikasi real-time di aplikasi web.
